@@ -3,7 +3,7 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
-                "name": "Soy el número cuatro (2011)",
+                "name": "Soy el número cuatro0 (2011)",
                 "url": "Oyx9Ecl33wjrDcJEOibw9rJel+iEPILXPoWogPMap3WEqQyUjLGYo5LtcoD7OE31",
                 "icono": "https://image.tmdb.org/t/p/w500/ikfd6zZDhLUWlLii61YQ6NSFXLY.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zGKDR7bYPo14MXmzpj8c4AErhtt.jpg",
@@ -391,6 +391,54 @@
     {
         "name": "🆕 ESTRENOS 🎬✨",
         "samples": [
+            {
+                "name": "Backrooms (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3EH2m5cNGEH6YIF2IZjvqn3fA5Q3WzOhcaF4os4ERuaM=",
+                "icono": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+                "anio": "2026",
+                "genero": "Terror,Misterio,Ciencia ficción",
+                "duracion": "1h 45m"
+            },
+            {
+                "name": "Scary Movie (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3WGJ3Qd4uBRfnrXr/bkAqCuHm4OIBmEr/ZgfufubpjH1p45ALkHccw+E8WuN7aDnp",
+                "icono": "https://image.tmdb.org/t/p/w500/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+                "type": "PELICULA",
+                "descripcion": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+                "anio": "2026",
+                "genero": "Comedia,Terror",
+                "duracion": "1h 36m"
+            },
+            {
+                "name": "Mortal Kombat II (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Jc3oQUV2HDGb5sJfVf3HIVI8vrhvCGzaN4N+sRs7JPk=",
+                "icono": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sRyFntbzywb7Z2cbwf7YfhEzziP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
+                "type": "PELICULA",
+                "descripcion": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+                "anio": "2026",
+                "genero": "Acción,Fantasía,Aventura",
+                "duracion": "1h 56m"
+            },
+            {
+                "name": "He-Man y los amos el universo (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3RS8vQuuqaYd4ja95xRTAi6LHCRcvFn3/2ynEbqgA70R5mpzJNOeSw2zgvARIN7xu",
+                "icono": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/l8BJAcvbpXVBTReYCNnemGGVgs2.png",
+                "type": "PELICULA",
+                "descripcion": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+                "anio": "2026",
+                "genero": "Acción,Fantasía,Ciencia ficción",
+                "duracion": "2h 20m"
+            },
             {
                 "name": "El mago del Kremlin (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v370RIVXZHalWiX1EJcwXSDJjt4xH6VPYDClUR82rGWFcfz9J7baII46vmPj+mdl8A",
