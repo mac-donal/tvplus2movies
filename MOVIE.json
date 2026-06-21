@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+                "name": "Toy Story 5 (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3ZaPHABpfDB6B/WmZyimUpKxbjPgtF4XzR3cjGNbnTHo=",
+                "icono": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+                "anio": "2026",
+                "genero": "Animación,Familia,Comedia,Aventura",
+                "duracion": "1h 42m"
+            },
+            {
                 "name": "Soy el número cuatro0 (2011)",
                 "url": "Oyx9Ecl33wjrDcJEOibw9rJel+iEPILXPoWogPMap3WEqQyUjLGYo5LtcoD7OE31",
                 "icono": "https://image.tmdb.org/t/p/w500/ikfd6zZDhLUWlLii61YQ6NSFXLY.jpg",
@@ -391,6 +403,18 @@
     {
         "name": "🆕 ESTRENOS 🎬✨",
         "samples": [
+            {
+                "name": "Toy Story 5 (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3ZaPHABpfDB6B/WmZyimUpKxbjPgtF4XzR3cjGNbnTHo=",
+                "icono": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+                "anio": "2026",
+                "genero": "Animación,Familia,Comedia,Aventura",
+                "duracion": "1h 42m"
+            },
             {
                 "name": "Backrooms (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3EH2m5cNGEH6YIF2IZjvqn3fA5Q3WzOhcaF4os4ERuaM=",
