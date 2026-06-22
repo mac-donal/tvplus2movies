@@ -14,21 +14,9 @@
                 "genero": "Documental",
                 "duracion": "25m"
             },
-            { 
-                "name": "Toy Story 5 (2026)",
-                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3ZaPHABpfDB6B/WmZyimUpKxbjPgtF4XzR3cjGNbnTHo=",
-                "icono": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-                "anio": "2026",
-                "genero": "Animación,Familia,Comedia,Aventura",
-                "duracion": "1h 42m"
-            },
             {
-                "name": "Soy el número cuatro0 (2011)",
-                "url": "Oyx9Ecl33wjrDcJEOibw9rJel+iEPILXPoWogPMap3WEqQyUjLGYo5LtcoD7OE31",
+                "name": "Soy el número cuatro (2011)",
+                "url": "HyMEnswVwGbsnd1GwFUT20c3f42uhXgD2kwS+yfQqccleW4XOrdpKluPZwy4Tvfdp5xRVQ/CCnUCeu06Bv5vbrhgx1pcjf+9VqQAEw7L/YUFWhZZpCyEQCtfVP/uCJHUmhj7ROBcAMezkrKlRJ3rRA==",
                 "icono": "https://image.tmdb.org/t/p/w500/ikfd6zZDhLUWlLii61YQ6NSFXLY.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zGKDR7bYPo14MXmzpj8c4AErhtt.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/original/kS3sf2kSZ9QkZs0MiJvq837h4CP.png",
@@ -244,7 +232,7 @@
             },
             {
                 "name": "Rapidos y Furiosos 5 5in Control (2011)",
-                "url": "TQSPBT5fFAmrHLJIeXbfeXEUIXcOdrzPEra7UEmghbsek4l6vY1YW3ztIO6w8W3jYQsTJpmI8awGT7JXWHAJJw==",
+                "url": "ZhozYjt/Y6KsuzFFULU05G7wkLWB9jIMjoS+w2NfNoxeENG+nw4cXSwEyC6SLiXSMOExcvwx5sLbfNznwPwA2BOHv37yKl7uhrUeOgLBwOgVNvGscwZoZ+IKqxYgEiuL",
                 "icono": "https://image.tmdb.org/t/p/w500/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/c9CSkUqJirHFfRe4rptYpGDcy5w.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
@@ -400,7 +388,7 @@
             },
             {
                 "name": "Maldita suerte (2025)",
-                "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrpdL8TNR2S8MzEHt5xQ6gMbJUSGd/2VyXNmzGzKJHCsm",
+                "url": "utBOlECpdLeJHpPUX1PXrwdl34zipdi5iRy0ICiOXg1BzosxMX+Hvq/a6iIIiFPM8eL67heq3C4Lor069fFc6rp579ztjTZ2Pv04GBChVm5+HdjA2qYd9ccfP05n5eNqzCmOLMp5HeI+VZJ9JlkCP3lswOGQ71edP0IsBfBm30Np45ALkHccw+E8WuN7aDnp",
                 "icono": "https://image.tmdb.org/t/p/original/jd4p4omMZIywNP5vYbrPUfL1phX.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/original/xRpqYqrAfKEFiOtuTjGNwsepq55.png",
@@ -416,7 +404,7 @@
         "name": "🆕 ESTRENOS 🎬✨",
         "samples": [
             {
-                "name": "Messi: La Cinta Olvidada (2026)",
+                  "name": "Messi: La Cinta Olvidada (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3hE6bg9HN+VsfkdMosGIz0KK+8MPP6oL6EdFc02XFzsl3XOHtkgIcMdzWj7DIrFkd",
                 "icono": "https://image.tmdb.org/t/p/w500/m2xEimfzm1fxZOTJjYnLkIUJIWN.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ldE03UYVRT7DP86DySuxrg5vPJN.jpg",
@@ -427,7 +415,7 @@
                 "genero": "Documental",
                 "duracion": "25m"
             },
-            { 
+            {
                 "name": "Toy Story 5 (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3ZaPHABpfDB6B/WmZyimUpKxbjPgtF4XzR3cjGNbnTHo=",
                 "icono": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
@@ -438,30 +426,6 @@
                 "anio": "2026",
                 "genero": "Animación,Familia,Comedia,Aventura",
                 "duracion": "1h 42m"
-            },
-            {
-                "name": "Backrooms (2026)",
-                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3EH2m5cNGEH6YIF2IZjvqn3fA5Q3WzOhcaF4os4ERuaM=",
-                "icono": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-                "anio": "2026",
-                "genero": "Terror,Misterio,Ciencia ficción",
-                "duracion": "1h 45m"
-            },
-            {
-                "name": "Scary Movie (2026)",
-                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3WGJ3Qd4uBRfnrXr/bkAqCuHm4OIBmEr/ZgfufubpjH1p45ALkHccw+E8WuN7aDnp",
-                "icono": "https://image.tmdb.org/t/p/w500/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-                "type": "PELICULA",
-                "descripcion": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-                "anio": "2026",
-                "genero": "Comedia,Terror",
-                "duracion": "1h 36m"
             },
             {
                 "name": "Mortal Kombat II (2026)",
@@ -477,7 +441,7 @@
             },
             {
                 "name": "He-Man y los amos el universo (2026)",
-                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3RS8vQuuqaYd4ja95xRTAi6LHCRcvFn3/2ynEbqgA70R5mpzJNOeSw2zgvARIN7xu",
+                "url": "utBOlECpdLeJHpPUX1PXr0Gnhr14180838GA5NdXVlb161+oz3gl2s2ODgjKPrS6eJ01DxgzbRIz4QWhyORck8Y6DN03HHEHi/j1dyWI6X0LkShb3brSIkOr6YhKyPS3HSjj2hucVkQseWoA9Mdjbx01HrV1/MUyNHlLskbkx0pp45ALkHccw+E8WuN7aDnp",
                 "icono": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/original/l8BJAcvbpXVBTReYCNnemGGVgs2.png",
@@ -1773,7 +1737,7 @@
             },
             {
                 "name": "Maldita suerte (2025)",
-                "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrpdL8TNR2S8MzEHt5xQ6gMbJUSGd/2VyXNmzGzKJHCsm",
+                "url": "utBOlECpdLeJHpPUX1PXrwdl34zipdi5iRy0ICiOXg1BzosxMX+Hvq/a6iIIiFPM8eL67heq3C4Lor069fFc6rp579ztjTZ2Pv04GBChVm5+HdjA2qYd9ccfP05n5eNqzCmOLMp5HeI+VZJ9JlkCP3lswOGQ71edP0IsBfBm30Np45ALkHccw+E8WuN7aDnp",
                 "icono": "https://image.tmdb.org/t/p/original/jd4p4omMZIywNP5vYbrPUfL1phX.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/original/xRpqYqrAfKEFiOtuTjGNwsepq55.png",
@@ -10007,7 +9971,7 @@
             },
             {
                 "name": "Rapidos y Furiosos 5 5in Control (2011)",
-                "url": "TQSPBT5fFAmrHLJIeXbfeXEUIXcOdrzPEra7UEmghbsek4l6vY1YW3ztIO6w8W3jYQsTJpmI8awGT7JXWHAJJw==",
+                "url": "ZhozYjt/Y6KsuzFFULU05G7wkLWB9jIMjoS+w2NfNoxeENG+nw4cXSwEyC6SLiXSMOExcvwx5sLbfNznwPwA2BOHv37yKl7uhrUeOgLBwOgVNvGscwZoZ+IKqxYgEiuL",
                 "icono": "https://image.tmdb.org/t/p/w500/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/c9CSkUqJirHFfRe4rptYpGDcy5w.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
