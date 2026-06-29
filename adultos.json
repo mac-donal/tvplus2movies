@@ -5,81 +5,25 @@
       {
         "name": "PLAYBOY",
         "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "url": "yKyNd3bpyzsKtuhS60yFPzt/l56fMVlYP2ntqdMz9A0OzhjHAkSOh2IBkxlhE/KdKfRGfx8145jABGMZZQICPPYgtxcgG++1GPVcdwcTV1k=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVqvQnSYpMhQx1+fU9aLEX8zQbvcw9UlNyCNFTdKeFgK4/8tgVCfqifNJ13zRv8uZ+xaptPKtofS0XrHCFqL3+pEDChSuof07nUMeEdd3TNU2Y=",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLAY970B+p0IHomEMYVUU+IuTxUde2JTGmiJaDQJGByAQ=="
-        }
+        "url": "SNIo1VYXp1R5zdtlJ6Fsti2nHUm2eMER6+tprnUE1Ljh1W5KyCxMQ7sERoOhTx0E",
+        "type": "HLS"
+      },
+      {
+        "name": "PLAYBOY OP2",
+        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
+        "url": "S9f0HB/K2ZVTdnlk8ZFiP9/iTPTu40LHC97TMwCJiZIy0Zw12mep/KGfhRQFx0fgmwq4sQA1e/WOProYJbmIng==",
+        "type": "HLS"
       },
       {
         "name": "VENUS",
         "icono": "https://cdn.mitvstatic.com/channels/7d8e150e-912c-4b8f-9019-5d1b12f35a55_m.jpg",
-        "url": "yKyNd3bpyzsKtuhS60yFPzt/l56fMVlYP2ntqdMz9A1BNPSknDL985N97T8ExaImQJ5OmtX+y3IqGsTL4KsfF5uKiWBNiFijHPF6jxu1uXs=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVqF6w6by+qh/JLJUzypXB1NlrwoVc4jCwqvYmAh4/0FAbGo0TOHAH/L6tms84CGo2Bw/HsLI41Wfxy6UKjSwVA2RXmCjVhad/5wfcbPSIj5Fk=",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLAY970B+p0IHomEMYVUU+IuTxUde2JTGmiJaDQJGByAQ=="
-        }
+        "url": "WkvSBICfa3ps+2Adce15cgK/dmEyIcXsuw01bZ/MdMKikhLzAAy6dk99bzsgtaj5",
+        "type": "HLS"
       },
       {
         "name": "Sextreme",
         "icono": "https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg",
-        "url": "yKyNd3bpyzsKtuhS60yFPzt/l56fMVlYP2ntqdMz9A2CTsAMoPy82ySbJYhILksUJYcMEM1i03IU+Vk6RK5Ds0Naica9IuPnoJPgdH7Dj4Q=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVq1h3XniLELAISV+pnH1gyBRMJShygkHv2b6XqbwfY1xD/2ZBS7NqNAofMMnGMHE+GmLhmDxOrCIkwZh43hdNxc0z3wVkoIc/57OYm7Xntlb4=",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLAY970B+p0IHomEMYVUU+IuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "Hustler Maturet",
-        "icono": "https://i.ibb.co/BZLz3DM/Hustler-Mature.png",
-        "url": "yKyNd3bpyzsKtuhS60yFPzt/l56fMVlYP2ntqdMz9A3XiK0TOz4mCi2LsRbnvfqpKfRGfx8145jABGMZZQICPNIGFi96Lcc+PyGQdv2jzrI=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVqs7wAV4YyKUQ047WbIU6Bo6BB1fbuv0pIfnh7Xjs5kmdOB/9OYlJlOunqSf5Jc0R7gtTLHMH4DK9kMQagYplAicb2KcgScGeioAImgNafcNA=",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLAY970B+p0IHomEMYVUU+IuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "PLAYBOY",
-        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "url": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87CKBl2ulGjHPL1ZWSYOW5u+jjtULnOXEwJRch+4Uc403cupEZ2KkCZ1VQRhLPzv7Sc=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVqkgTvQSvNtCEDShMuiwVfiEHGEBLtVixDCc0SPteYMOGsfZkw+0PsLseSwn8E9nzX2PU74dexK0S0oT8e/eD2v0IFWZjWvIWvdXxGy8bQUzo=",
-        "headers": {
-          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
-          "Origin": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLAY970B+p0IHomEMYVUU+IuTxUde2JTGmiJaDQJGByAQ==",
-          "webtoken": "+iIHLhifnL33WunO8InC7w=="
-        }
-      },
-      {
-        "name": "PLAYBOY OPC 2",
-        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "url": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87CKBl2ulGjHPL1ZWSYOW5u+jjtULnOXEwJRch+4Uc403cupEZ2KkCZ1VQRhLPzv7Sc=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVqkgTvQSvNtCEDShMuiwVfiEHGEBLtVixDCc0SPteYMOGsfZkw+0PsLseSwn8E9nzX2PU74dexK0S0oT8e/eD2v0IFWZjWvIWvdXxGy8bQUzo=",
-        "headers": {
-          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
-          "Origin": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLAY970B+p0IHomEMYVUU+IuTxUde2JTGmiJaDQJGByAQ==",
-          "webtoken": "+iIHLhifnL33WunO8InC7w=="
-        }
-      },
-      {
-        "name": "PLAYBOY 3",
-        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "url": "S9f0HB/K2ZVTdnlk8ZFiP9/iTPTu40LHC97TMwCJiZIy0Zw12mep/KGfhRQFx0fgmwq4sQA1e/WOProYJbmIng==",
+        "url": "WkvSBICfa3ps+2Adce15cgK/dmEyIcXsuw01bZ/MdMJBfg1DhVOhrxcW22VyS1pd",
         "type": "HLS"
       },
       {
