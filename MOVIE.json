@@ -15,6 +15,18 @@
                 "duracion": "1h 44m"
             },
             {
+                "name": "Carrera de bestias (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3aWN782DB5mmrArmNLy02++6RzYo7iJvyxXRSP3FPqKGqOIwN1L1MhkmapycogMeN",
+                "icono": "https://image.tmdb.org/t/p/w500/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1WWukZCoavYEofNVRHJqE4t1urW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una Río de Janeiro del futuro, un joven líder de la resistencia debe participar en una competición mortal inspirada en el parkour para salvar la vida de su hermana.",
+                "anio": "2026",
+                "genero": "Acción,Ciencia ficción,Suspense",
+                "duracion": "2h 4m"
+            },
+            {
                 "name": "Nando entre dos mundos (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3IOmCfAGInY3rXAv8lNsybY3hTVAdVFX0u915dQBSpTO6YFA+/ooY5BZT/Kim8UsG",
                 "icono": "https://image.tmdb.org/t/p/w500/jgIHdtYjvqNRMRcJFVnGUcLmNIb.jpg",
@@ -486,6 +498,18 @@
                 "anio": "2026",
                 "genero": "Acción,Comedia,Documental",
                 "duracion": "1h 44m"
+            },
+            {
+                "name": "Carrera de bestias (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3aWN782DB5mmrArmNLy02++6RzYo7iJvyxXRSP3FPqKGqOIwN1L1MhkmapycogMeN",
+                "icono": "https://image.tmdb.org/t/p/w500/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1WWukZCoavYEofNVRHJqE4t1urW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una Río de Janeiro del futuro, un joven líder de la resistencia debe participar en una competición mortal inspirada en el parkour para salvar la vida de su hermana.",
+                "anio": "2026",
+                "genero": "Acción,Ciencia ficción,Suspense",
+                "duracion": "2h 4m"
             },
             {
                 "name": "Young Washington (2026)",
