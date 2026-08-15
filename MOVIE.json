@@ -27,6 +27,18 @@
                 "duracion": "1h 55m"
             },
             {
+                "name": "Young Washington (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3xfu2KjBmeuzvxwAfB6OgcO0Ggx12Pv7oILGc1L4ph7M=",
+                "icono": "https://image.tmdb.org/t/p/w500/cpY0vz53hWon3N7zJ4XTSkxAEUd.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cpY0vz53hWon3N7zJ4XTSkxAEUd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Antes de liderar una nación, George Washington era un joven soldado en un conflicto global. Con alianzas desmoronándose y la guerra acercándose, debe elegir en quién confiar y enfrentar al líder en que se está convirtiendo.",
+                "anio": "2026",
+                "genero": "Historia,Bélica,Drama",
+                "duracion": "2h 1m"
+            },
+            {
                 "name": "Messi: La Cinta Olvidada (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3hE6bg9HN+VsfkdMosGIz0KK+8MPP6oL6EdFc02XFzsl3XOHtkgIcMdzWj7DIrFkd",
                 "icono": "https://image.tmdb.org/t/p/w500/m2xEimfzm1fxZOTJjYnLkIUJIWN.jpg",
@@ -438,8 +450,20 @@
                 "anio": "2026",
                 "genero": "Acción,Comedia,Documental",
                 "duracion": "1h 44m"
-          },
+            },
             {
+                "name": "Young Washington (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3xfu2KjBmeuzvxwAfB6OgcO0Ggx12Pv7oILGc1L4ph7M=",
+                "icono": "https://image.tmdb.org/t/p/w500/cpY0vz53hWon3N7zJ4XTSkxAEUd.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cpY0vz53hWon3N7zJ4XTSkxAEUd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Antes de liderar una nación, George Washington era un joven soldado en un conflicto global. Con alianzas desmoronándose y la guerra acercándose, debe elegir en quién confiar y enfrentar al líder en que se está convirtiendo.",
+                "anio": "2026",
+                "genero": "Historia,Bélica,Drama",
+                "duracion": "2h 1m"
+            },
+            { 
                   "name": "Moana (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3l0SJP8+DOU9OYFjib1PS2DaJyTafg75G04d6hAAjUOs=",
                 "icono": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
