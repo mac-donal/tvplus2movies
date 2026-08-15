@@ -15,6 +15,18 @@
                 "duracion": "1h 44m"
             },
             {
+                  "name": "Moana (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3l0SJP8+DOU9OYFjib1PS2DaJyTafg75G04d6hAAjUOs=",
+                "icono": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/j5MOoITr9FEkXzTcTGgb3iJVU1I.png",
+                "type": "PELICULA",
+                "descripcion": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+                "anio": "2026",
+                "genero": "Familia,Fantasía,Comedia,Aventura",
+                "duracion": "1h 55m"
+            },
+            {
                 "name": "Messi: La Cinta Olvidada (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3hE6bg9HN+VsfkdMosGIz0KK+8MPP6oL6EdFc02XFzsl3XOHtkgIcMdzWj7DIrFkd",
                 "icono": "https://image.tmdb.org/t/p/w500/m2xEimfzm1fxZOTJjYnLkIUJIWN.jpg",
@@ -426,6 +438,18 @@
                 "anio": "2026",
                 "genero": "Acción,Comedia,Documental",
                 "duracion": "1h 44m"
+          },
+            {
+                  "name": "Moana (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3l0SJP8+DOU9OYFjib1PS2DaJyTafg75G04d6hAAjUOs=",
+                "icono": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/j5MOoITr9FEkXzTcTGgb3iJVU1I.png",
+                "type": "PELICULA",
+                "descripcion": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+                "anio": "2026",
+                "genero": "Familia,Fantasía,Comedia,Aventura",
+                "duracion": "1h 55m"
             },
             {
                 "name": "La odisea (2026)",
