@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+                "name": "Jackass: Lo mejor para el final (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3qJBkifuDLaPgzcNnjcQHwg1nZHC8h1iWIYswqi+VGqez6vkv2XoSJ9fCFwVyA9aPYQsTJpmI8awGT7JXWHAJJw==",
+                "icono": "https://image.tmdb.org/t/p/w500/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/lhJUUF3qulqwojyE1Clki0cLXaY.png",
+                "type": "PELICULA",
+                "descripcion": "Johnny Knoxville, Steve-O y el elenco clásico —junto a los integrantes más jóvenes— se reúnen por última vez en un formato que combina nuevas bromas y acrobacias extremas con escenas inéditas, descartes históricos y material de archivo. Acompañada de comentarios e intervenciones del director Jeff Tremaine, la película funciona como un homenaje caótico, irreverente y nostálgico al legado del grupo y al paso de los años entre sus miembros.",
+                "anio": "2026",
+                "genero": "Acción,Comedia,Documental",
+                "duracion": "1h 44m"
+            },
+            {
                 "name": "Messi: La Cinta Olvidada (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3hE6bg9HN+VsfkdMosGIz0KK+8MPP6oL6EdFc02XFzsl3XOHtkgIcMdzWj7DIrFkd",
                 "icono": "https://image.tmdb.org/t/p/w500/m2xEimfzm1fxZOTJjYnLkIUJIWN.jpg",
@@ -403,6 +415,18 @@
     {
         "name": "🆕 ESTRENOS 🎬✨",
         "samples": [
+            {
+                "name": "Jackass: Lo mejor para el final (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3qJBkifuDLaPgzcNnjcQHwg1nZHC8h1iWIYswqi+VGqez6vkv2XoSJ9fCFwVyA9aPYQsTJpmI8awGT7JXWHAJJw==",
+                "icono": "https://image.tmdb.org/t/p/w500/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/lhJUUF3qulqwojyE1Clki0cLXaY.png",
+                "type": "PELICULA",
+                "descripcion": "Johnny Knoxville, Steve-O y el elenco clásico —junto a los integrantes más jóvenes— se reúnen por última vez en un formato que combina nuevas bromas y acrobacias extremas con escenas inéditas, descartes históricos y material de archivo. Acompañada de comentarios e intervenciones del director Jeff Tremaine, la película funciona como un homenaje caótico, irreverente y nostálgico al legado del grupo y al paso de los años entre sus miembros.",
+                "anio": "2026",
+                "genero": "Acción,Comedia,Documental",
+                "duracion": "1h 44m"
+            },
             {
                 "name": "La odisea (2026)",
                 "url": "4ZvtZYANwJ14/rhuM7WyEGBs+Qi2xk8G37FQhGTuLMUlLh6cNPtEiWXq13b/hCBTGZ+9eBggDwN5dyw1Ik6lqA==",
