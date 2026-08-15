@@ -63,6 +63,18 @@
                 "duracion": "2h 1m"
             },
             {
+                "name": "Pollo a lo grande: Una conspiración de comida rápida (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3R0YKJguzcuVIt4IXeeihnh5GyxFPONl+kB04skqTehiqOIwN1L1MhkmapycogMeN",
+                "icono": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+                "type": "PELICULA",
+                "descripcion": "En un experimento de 28 días, el cómico Mo Gilligan recorre Reino Unido y Estados Unidos comiendo únicamente pollo frito para descubrir qué hay detrás de esta industria.",
+                "anio": "2026",
+                "genero": "Documental",
+                "duracion": "1h 36m"
+            },
+            { 
                 "name": "Messi: La Cinta Olvidada (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3hE6bg9HN+VsfkdMosGIz0KK+8MPP6oL6EdFc02XFzsl3XOHtkgIcMdzWj7DIrFkd",
                 "icono": "https://image.tmdb.org/t/p/w500/m2xEimfzm1fxZOTJjYnLkIUJIWN.jpg",
@@ -522,6 +534,18 @@
                 "anio": "2026",
                 "genero": "Familia,Fantasía,Comedia,Aventura",
                 "duracion": "1h 55m"
+            },
+            {
+                "name": "Pollo a lo grande: Una conspiración de comida rápida (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3R0YKJguzcuVIt4IXeeihnh5GyxFPONl+kB04skqTehiqOIwN1L1MhkmapycogMeN",
+                "icono": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+                "type": "PELICULA",
+                "descripcion": "En un experimento de 28 días, el cómico Mo Gilligan recorre Reino Unido y Estados Unidos comiendo únicamente pollo frito para descubrir qué hay detrás de esta industria.",
+                "anio": "2026",
+                "genero": "Documental",
+                "duracion": "1h 36m"
             },
             {
                 "name": "La odisea (2026)",
