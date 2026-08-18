@@ -4,6 +4,65 @@
             "nombre": "RECOMENDADOS",
             "series": [
                 {
+                    "tmdb_id": "322428",
+                    "nombre": "Moria (2026)",
+                    "descripcion": "Moria Casán celebra su 80 cumpleaños y abre las puertas a una versión ficcionalizada de sí misma, como la titiritera de su propia historia. Tres grandes actrices —Sofía Gala Castiglione, Griselda Siciliani y Cecilia Roth— la interpretan en distintas etapas de su vida. La serie no es solo el retrato de una estrella que abarca cine, teatro y televisión; es la historia de una mujer que transformó la transgresión en una forma de supervivencia y un homenaje a la cultura popular argentina.",
+                    "anio": "2026",
+                    "genero": "Drama",
+                    "iconPng": "https://image.tmdb.org/t/p/w500/sbgnRVTa1ovATE2rH1TZXrb4dLH.jpg",
+                    "icono": "https://image.tmdb.org/t/p/w500/sbgnRVTa1ovATE2rH1TZXrb4dLH.jpg",
+                    "backdrop": "https://image.tmdb.org/t/p/original/wCqQrj4536IkhFlxDSytf4p3H09.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El Obelisco con tetas",
+                                    "url": "cVI+FPBxX2ASracUSyM4w8TwYAEq/+/TGxFPfxYAmcxOjOoshJ1qqgxewLkXdR5cVT9SYpCBtTwDqCjLyRE2xk25Lz+Hp/xYII+4zY3GTWA="
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Soy de otro sistema solar",
+                                    "url": "cVI+FPBxX2ASracUSyM4w8TwYAEq/+/TGxFPfxYAmcxOjOoshJ1qqgxewLkXdR5cVT9SYpCBtTwDqCjLyRE2xpf/LGGJIC+xIQS4rwCt0wQ="
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Yo trascendí mi cuerpo",
+                                    "url": "cVI+FPBxX2ASracUSyM4w8TwYAEq/+/TGxFPfxYAmcxOjOoshJ1qqgxewLkXdR5cVT9SYpCBtTwDqCjLyRE2xrYNppVH59oxzKMg99h+B+0="
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Si querés llorar, llorá",
+                                    "url": "cVI+FPBxX2ASracUSyM4w8TwYAEq/+/TGxFPfxYAmcxOjOoshJ1qqgxewLkXdR5cVT9SYpCBtTwDqCjLyRE2xl95GR6Z2PzH6BNHIfxk0fs="
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "cVI+FPBxX2ASracUSyM4w8TwYAEq/+/TGxFPfxYAmcxOjOoshJ1qqgxewLkXdR5cVT9SYpCBtTwDqCjLyRE2xmiJruonFpBeLZb9vT24p5k="
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "No hablen de mí",
+                                    "url": "cVI+FPBxX2ASracUSyM4w8TwYAEq/+/TGxFPfxYAmcxOjOoshJ1qqgxewLkXdR5cVT9SYpCBtTwDqCjLyRE2xk0MuUsEjnxkazEEDdhqPY0="
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Me impresiona mi fama",
+                                    "url": "cVI+FPBxX2ASracUSyM4w8TwYAEq/+/TGxFPfxYAmcxOjOoshJ1qqgxewLkXdR5cVT9SYpCBtTwDqCjLyRE2xr/w5E/IVB3yvPi7y2LVjKs="
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Sabrán de mí todo el tiempo",
+                                    "url": "cVI+FPBxX2ASracUSyM4w8TwYAEq/+/TGxFPfxYAmcxOjOoshJ1qqgxewLkXdR5cVT9SYpCBtTwDqCjLyRE2xsS88K8exLQ3fUt8wO2PYl4="
+                                }
+                            ]
+                        }
+                    ],
+                    "total_seasons": 1
+                },
+                {
                     "tmdb_id": "74428",
                     "nombre": "Rosario Tijeras (2016)",
                     "descripcion": "La serie cuenta la historia de una guerrera de uno de los barrios más pobres y peligrosos en Ciudad de México. Su belleza y nobleza contrasta con el ambiente gris y desolado donde creció. Ella es temida por sus enemigos y adorada por sus amigos.",
