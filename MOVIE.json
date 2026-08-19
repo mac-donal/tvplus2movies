@@ -3,7 +3,7 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
-                "name": "Jackass: Lo mejor para el final (2026)",
+                  "name": "Jackass: Lo mejor para el final (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3qJBkifuDLaPgzcNnjcQHwg1nZHC8h1iWIYswqi+VGqez6vkv2XoSJ9fCFwVyA9aPYQsTJpmI8awGT7JXWHAJJw==",
                 "icono": "https://image.tmdb.org/t/p/w500/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
@@ -39,7 +39,7 @@
                 "duracion": "1h 49m"
             },
             {
-               "name": "La última casa (2026)",
+                "name": "La última casa (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Oh9xbut06u56x//xK+XUBdgCv0C29TkISG0IBSS7FvADQIzurqu3cVx38WdtPo6Q",
                 "icono": "https://image.tmdb.org/t/p/w500/CIGQ7ONbNaSDK3KGkXjBILcj1d.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
@@ -51,7 +51,7 @@
                 "duracion": "1h 50m"
             },
             {
-                  "name": "Moana (2026)",
+                "name": "Moana (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3l0SJP8+DOU9OYFjib1PS2DaJyTafg75G04d6hAAjUOs=",
                 "icono": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
@@ -86,7 +86,7 @@
                 "genero": "Documental",
                 "duracion": "1h 36m"
             },
-            { 
+            {
                 "name": "Messi: La Cinta Olvidada (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3hE6bg9HN+VsfkdMosGIz0KK+8MPP6oL6EdFc02XFzsl3XOHtkgIcMdzWj7DIrFkd",
                 "icono": "https://image.tmdb.org/t/p/w500/m2xEimfzm1fxZOTJjYnLkIUJIWN.jpg",
@@ -500,16 +500,76 @@
                 "duracion": "1h 44m"
             },
             {
-                "name": "Carrera de bestias (2026)",
-                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3aWN782DB5mmrArmNLy02++6RzYo7iJvyxXRSP3FPqKGqOIwN1L1MhkmapycogMeN",
-                "icono": "https://image.tmdb.org/t/p/w500/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1WWukZCoavYEofNVRHJqE4t1urW.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg",
+                "name": "Casa Grande (2026)",
+                "url": "4ZvtZYANwJ14/rhuM7WyEGBs+Qi2xk8G37FQhGTuLMUdTNG4vVkhcwKaNpTYPChcHPDoU+cKpG2XzPFLsLbHw+0iqHMjF7a1HNhgVNuU4UyBxi5j+H+03Yb2wfgNaRQw",
+                "icono": "https://image.tmdb.org/t/p/w500/mE9E4nsGM91Cf4b1s6nOOdUAE9P.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/acIqwzNeL6CB74Sk7ybwwQflW3H.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mE9E4nsGM91Cf4b1s6nOOdUAE9P.jpg",
                 "type": "PELICULA",
-                "descripcion": "En una Río de Janeiro del futuro, un joven líder de la resistencia debe participar en una competición mortal inspirada en el parkour para salvar la vida de su hermana.",
+                "descripcion": "Una hija pródiga se reúne con su familia en su granja en un momento difícil, cuando su padre enfermo se enfrenta a un diagnóstico terminal y a la creciente presión de la competencia. Viejas heridas resurgen mientras se enfrentan a lo que les espera.",
                 "anio": "2026",
-                "genero": "Acción,Ciencia ficción,Suspense",
-                "duracion": "2h 4m"
+                "genero": "Drama,Western",
+                "duracion": "1h 54m"
+            },
+            {
+                "name": "Las Espadas De Los Guardianes: El viento se levanta en el desierto (2026)",
+                "url": "4ZvtZYANwJ14/rhuM7WyEGBs+Qi2xk8G37FQhGTuLMXbt/okiQvbykivveB2CJRq8pFdhri0p0wUERbLBi/qJXnjEewKVhQmdqL1X/8kQY0=",
+                "icono": "https://image.tmdb.org/t/p/w500/wOYPRKEdYEdTCaJ25Q9IFmsvAkD.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wHwoA0K8GO5vTcOSro8viyfxf6m.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wOYPRKEdYEdTCaJ25Q9IFmsvAkD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Dao Ma, el segundo fugitivo más buscado, recibe del jefe del clan Mo una misión de escolta misteriosa: debe llevar al fugitivo más buscado hasta Chang'an.",
+                "anio": "2026",
+                "genero": "Acción,Aventura,Drama,Western",
+                "duracion": "2h 6m"
+            },
+            {
+                "name": "El cobrador de deudas (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v30p2t7CfKPQXdnUShsYz4HwTmA62uX6akamjxDmN3Ep2qOIwN1L1MhkmapycogMeN",
+                "icono": "https://image.tmdb.org/t/p/w500/loW8i6T3amH4CONDjaUNmQv9kva.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/3A25BYKuvEsMOKZFzGEGzArdBkv.png",
+                "type": "PELICULA",
+                "descripcion": "Atormentado por los errores del pasado y un diagnóstico terminal, un excobrador de deudas regresa al mundo del hampa para proteger a las víctimas de una organización violenta.",
+                "anio": "2026",
+                "genero": "Acción,Suspense,Crimen",
+                "duracion": "2h 14m"
+            },
+            {
+                "name": "Un hijo propio (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Zcie1nCM3+NRiJ6vpujOONyiDH8qKGpmD/25eqHHpOQ=",
+                "icono": "https://image.tmdb.org/t/p/w500/3QylEx2tqfX8MXswK4oGdJUOExB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3QylEx2tqfX8MXswK4oGdJUOExB.jpg",
+                "type": "PELICULA",
+                "descripcion": "En este impactante documental, una mujer, desesperada por tener un bebé y agobiada por las expectativas familiares y sociales, finge un embarazo y se ve envuelta en un crimen.",
+                "anio": "2026",
+                "genero": "Documental",
+                "duracion": "1h 36m"
+            },
+            {
+                "name": "Quince días (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3d5mCc8JvUYcHuV+PQb2AcrczY3b5lgeHQe2DH73c3KM=",
+                "icono": "https://image.tmdb.org/t/p/w500/f52tZybwHnomYCkRhe9rHMSEz5j.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wiIFKSEZkKgmoI1ylsrbqvRxu1S.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/f52tZybwHnomYCkRhe9rHMSEz5j.jpg",
+                "type": "PELICULA",
+                "descripcion": "Felipe solo quería disfrutar de un verano tranquilo viendo musicales con la artista de su madre... hasta que llega su 'crush' de la adolescencia para unirse a la fiesta.",
+                "anio": "2026",
+                "genero": "Comedia,Romance",
+                "duracion": ""
+            },
+            {
+                "name": "Caída libre: Toda la verdad sobre Boeing (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3uwi8jxKr+EHVSghqbGNiP2o26KkbuOFfUQmz6l6nF7M/vqlxA6h2dZ4zebpDOoUcJokIahxcr8DjcbuGzlOnrA==",
+                "icono": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+                "type": "PELICULA",
+                "descripcion": "En este documental, un alarmante testimonio de un informante afirma que la cultura de recortes y encubrimientos de Boeing provocó fallos de seguridad aérea mortales.",
+                "anio": "2026",
+                "genero": "Documental",
+                "duracion": "1h 33m"
             },
             {
                 "name": "Young Washington (2026)",
@@ -523,8 +583,8 @@
                 "genero": "Historia,Bélica,Drama",
                 "duracion": "2h 1m"
             },
-            { 
-               "name": "La última casa (2026)",
+            {
+                "name": "La última casa (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Oh9xbut06u56x//xK+XUBdgCv0C29TkISG0IBSS7FvADQIzurqu3cVx38WdtPo6Q",
                 "icono": "https://image.tmdb.org/t/p/w500/CIGQ7ONbNaSDK3KGkXjBILcj1d.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
@@ -548,7 +608,7 @@
                 "duracion": "1h 49m"
             },
             {
-                  "name": "Moana (2026)",
+                "name": "Moana (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3l0SJP8+DOU9OYFjib1PS2DaJyTafg75G04d6hAAjUOs=",
                 "icono": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
