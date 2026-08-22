@@ -15,6 +15,18 @@
                 "duracion": "1h 35m"
             },
             {
+                "name": "Engendro (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v31LsZ/K55hBEHss5/iEkYaGpfWhtitCNlcQMICSWA5Ro=",
+                "icono": "https://image.tmdb.org/t/p/w500/cVQFWGIt5PNw3p7AcQOq2Eg39G.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/kmcFHu4j4aHqIcqlFMTa6BPDMZo.png",
+                "type": "PELICULA",
+                "descripcion": "En el bosque finlandés, Saga y su esposo Jon se embarcan en un nuevo capítulo como padres. La alegría de Saga se ve ensombrecida por las sospechas sobre su bebé, provocando una ruptura mientras ella se enfrenta a la inquietante verdad.",
+                "anio": "2026",
+                "genero": "Terror",
+                "duracion": "1h 32m"
+            },
+            {
                   "name": "Jackass: Lo mejor para el final (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3qJBkifuDLaPgzcNnjcQHwg1nZHC8h1iWIYswqi+VGqez6vkv2XoSJ9fCFwVyA9aPYQsTJpmI8awGT7JXWHAJJw==",
                 "icono": "https://image.tmdb.org/t/p/w500/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
@@ -522,6 +534,18 @@
                 "anio": "2026",
                 "genero": "Acción,Comedia,Documental",
                 "duracion": "1h 44m"
+            },
+            {
+                "name": "Engendro (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v31LsZ/K55hBEHss5/iEkYaGpfWhtitCNlcQMICSWA5Ro=",
+                "icono": "https://image.tmdb.org/t/p/w500/cVQFWGIt5PNw3p7AcQOq2Eg39G.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/kmcFHu4j4aHqIcqlFMTa6BPDMZo.png",
+                "type": "PELICULA",
+                "descripcion": "En el bosque finlandés, Saga y su esposo Jon se embarcan en un nuevo capítulo como padres. La alegría de Saga se ve ensombrecida por las sospechas sobre su bebé, provocando una ruptura mientras ella se enfrenta a la inquietante verdad.",
+                "anio": "2026",
+                "genero": "Terror",
+                "duracion": "1h 32m"
             },
             {
                 "name": "Casa Grande (2026)",
