@@ -27,6 +27,18 @@
                 "duracion": "1h 42m"
             },
             {
+                 "name": "Pinocho esta Desquiciado (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3QmHiFnJLnewIr02tH5Lp4AO3LJfFfQmxwoX1uT8Xrhc=",
+                "icono": "https://image.tmdb.org/t/p/w500/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/wJ17ygY6P1RCDeYclTeccvBceeM.png",
+                "type": "PELICULA",
+                "descripcion": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+                "anio": "2026",
+                "genero": "Terror,Fantasía,Misterio",
+                "duracion": "1h 28m"
+            },
+            {
                 "name": "Engendro (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v31LsZ/K55hBEHss5/iEkYaGpfWhtitCNlcQMICSWA5Ro=",
                 "icono": "https://image.tmdb.org/t/p/w500/cVQFWGIt5PNw3p7AcQOq2Eg39G.jpg",
@@ -548,6 +560,18 @@
                 "duracion": "1h 42m"
             },
             { 
+                "name": "Pinocho esta Desquiciado (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3QmHiFnJLnewIr02tH5Lp4AO3LJfFfQmxwoX1uT8Xrhc=",
+                "icono": "https://image.tmdb.org/t/p/w500/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/wJ17ygY6P1RCDeYclTeccvBceeM.png",
+                "type": "PELICULA",
+                "descripcion": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+                "anio": "2026",
+                "genero": "Terror,Fantasía,Misterio",
+                "duracion": "1h 28m"
+            },
+            {
                 "name": "Jackass: Lo mejor para el final (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3qJBkifuDLaPgzcNnjcQHwg1nZHC8h1iWIYswqi+VGqez6vkv2XoSJ9fCFwVyA9aPYQsTJpmI8awGT7JXWHAJJw==",
                 "icono": "https://image.tmdb.org/t/p/w500/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
