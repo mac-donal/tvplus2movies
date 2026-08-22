@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+                "name": "El motín (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3T8lm5Wsbhs0LPpgiTbLvo+HjKOXnq6sLorKfSY/Xcf0=",
+                "icono": "https://image.tmdb.org/t/p/w500/iQDXJZxItoTL6LBtrD4XRoEBpMJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/oYczVzfyREqlDw08iyG44h65Ych.png",
+                "type": "PELICULA",
+                "descripcion": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+                "anio": "2026",
+                "genero": "Acción,Suspense",
+                "duracion": "1h 35m"
+            },
+            {
                   "name": "Jackass: Lo mejor para el final (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3qJBkifuDLaPgzcNnjcQHwg1nZHC8h1iWIYswqi+VGqez6vkv2XoSJ9fCFwVyA9aPYQsTJpmI8awGT7JXWHAJJw==",
                 "icono": "https://image.tmdb.org/t/p/w500/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
@@ -487,6 +499,18 @@
     {
         "name": "🆕 ESTRENOS 🎬✨",
         "samples": [
+            {
+                "name": "El motín (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3T8lm5Wsbhs0LPpgiTbLvo+HjKOXnq6sLorKfSY/Xcf0=",
+                "icono": "https://image.tmdb.org/t/p/w500/iQDXJZxItoTL6LBtrD4XRoEBpMJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/oYczVzfyREqlDw08iyG44h65Ych.png",
+                "type": "PELICULA",
+                "descripcion": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+                "anio": "2026",
+                "genero": "Acción,Suspense",
+                "duracion": "1h 35m"
+            },
             {
                 "name": "Jackass: Lo mejor para el final (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3qJBkifuDLaPgzcNnjcQHwg1nZHC8h1iWIYswqi+VGqez6vkv2XoSJ9fCFwVyA9aPYQsTJpmI8awGT7JXWHAJJw==",
