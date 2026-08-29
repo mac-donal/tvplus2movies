@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+                "name": "Barreda (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3cFV51iDfb0C6pw+Vu1qWPoniV/T7IVBfFlZ09eNUeNc=",
+                "icono": "https://image.tmdb.org/t/p/w500/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
+                "type": "PELICULA",
+                "descripcion": "Película basada en uno de los crímenes más impactantes de la historia de Argentina. En 1992, Ricardo Barreda, un dentista de aspecto inofensivo, asesinó brutalmente a su mujer, a su suegra y a sus dos hijas adultas en el domicilio familiar. Presentándose a sí mismo como una víctima, Ricardo Barreda desató una tormenta mediática y avivó un escándalo nacional.",
+                "anio": "2026",
+                "genero": "Drama,Crimen,Historia",
+                "duracion": "1h 45m"
+            },
+            {
                 "name": "El motín (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3T8lm5Wsbhs0LPpgiTbLvo+HjKOXnq6sLorKfSY/Xcf0=",
                 "icono": "https://image.tmdb.org/t/p/w500/iQDXJZxItoTL6LBtrD4XRoEBpMJ.jpg",
@@ -27,7 +39,7 @@
                 "duracion": "1h 42m"
             },
             {
-                 "name": "Pinocho esta Desquiciado (2026)",
+                "name": "Pinocho esta Desquiciado (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3QmHiFnJLnewIr02tH5Lp4AO3LJfFfQmxwoX1uT8Xrhc=",
                 "icono": "https://image.tmdb.org/t/p/w500/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
@@ -51,7 +63,7 @@
                 "duracion": "1h 32m"
             },
             {
-                  "name": "Jackass: Lo mejor para el final (2026)",
+                "name": "Jackass: Lo mejor para el final (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3qJBkifuDLaPgzcNnjcQHwg1nZHC8h1iWIYswqi+VGqez6vkv2XoSJ9fCFwVyA9aPYQsTJpmI8awGT7JXWHAJJw==",
                 "icono": "https://image.tmdb.org/t/p/w500/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
@@ -536,6 +548,18 @@
         "name": "🆕 ESTRENOS 🎬✨",
         "samples": [
             {
+                 "name": "Barreda (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3cFV51iDfb0C6pw+Vu1qWPoniV/T7IVBfFlZ09eNUeNc=",
+                "icono": "https://image.tmdb.org/t/p/w500/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
+                "type": "PELICULA",
+                "descripcion": "Película basada en uno de los crímenes más impactantes de la historia de Argentina. En 1992, Ricardo Barreda, un dentista de aspecto inofensivo, asesinó brutalmente a su mujer, a su suegra y a sus dos hijas adultas en el domicilio familiar. Presentándose a sí mismo como una víctima, Ricardo Barreda desató una tormenta mediática y avivó un escándalo nacional.",
+                "anio": "2026",
+                "genero": "Drama,Crimen,Historia",
+                "duracion": "1h 45m"
+            },
+            {
                 "name": "El motín (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3T8lm5Wsbhs0LPpgiTbLvo+HjKOXnq6sLorKfSY/Xcf0=",
                 "icono": "https://image.tmdb.org/t/p/w500/iQDXJZxItoTL6LBtrD4XRoEBpMJ.jpg",
@@ -559,7 +583,7 @@
                 "genero": "Animación,Familia,Comedia,Aventura",
                 "duracion": "1h 42m"
             },
-            { 
+            {
                 "name": "Pinocho esta Desquiciado (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3QmHiFnJLnewIr02tH5Lp4AO3LJfFfQmxwoX1uT8Xrhc=",
                 "icono": "https://image.tmdb.org/t/p/w500/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
