@@ -5,7 +5,7 @@
       {
         "name": "PLAYBOY",
         "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://magisvideo.com/KEYFLOW/KEYPLAYBOY.json",
         "headers": {
