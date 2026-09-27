@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+                "name": "Fito Páez: El mundo cabe en una canción (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3awg6cZhTp7Nh2+73cCXNIXcMQCvsynCkEOhYMq9JEQdLrVWwueF/4S3+sS/BtukiHwni1JjX0b42IlO3wK5HEw==",
+                "icono": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una película documental que observa, escucha e interactúa con Fito Páez desde un lugar de profunda intimidad.",
+                "anio": "2026",
+                "genero": "Documental,Música",
+                "duracion": "1h 52m"
+            },
+            {
                 "name": "Resident Evil (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Vf6pq7hN2U0xryzVy1IDgqhQVsUXGXgL6uLIfFrhA66M25fpq0qiFNCezs4xtf2A",
                 "icono": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
@@ -596,6 +608,18 @@
         "name": "🆕 ESTRENOS 🎬✨",
         "samples": [
             {
+                "name": "Fito Páez: El mundo cabe en una canción (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3awg6cZhTp7Nh2+73cCXNIXcMQCvsynCkEOhYMq9JEQdLrVWwueF/4S3+sS/BtukiHwni1JjX0b42IlO3wK5HEw==",
+                "icono": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una película documental que observa, escucha e interactúa con Fito Páez desde un lugar de profunda intimidad.",
+                "anio": "2026",
+                "genero": "Documental,Música",
+                "duracion": "1h 52m"
+            },
+            {  
                 "name": "Resident Evil (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Vf6pq7hN2U0xryzVy1IDgqhQVsUXGXgL6uLIfFrhA66M25fpq0qiFNCezs4xtf2A",
                 "icono": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
