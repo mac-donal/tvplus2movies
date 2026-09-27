@@ -3,6 +3,30 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+                "name": "Resident Evil (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Vf6pq7hN2U0xryzVy1IDgqhQVsUXGXgL6uLIfFrhA66M25fpq0qiFNCezs4xtf2A",
+                "icono": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+                "type": "PELICULA",
+                "descripcion": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+                "anio": "2026",
+                "genero": "Terror,Ciencia ficción,Aventura",
+                "duracion": "1h 33m"
+            },
+            {
+                "name": "Adolescencia, sexo y muerte en campamento Miasma (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Hp5zcqOiNVcE2SrndVQI7eZd1qWd1Fnr189L6Qi4RndhUNY2IkVBJPN071ssKayzwSg9lvwHlkSmqT3LszNW6g==",
+                "icono": "https://image.tmdb.org/t/p/w500/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+                "anio": "2026",
+                "genero": "Comedia,Terror,Romance",
+                "duracion": "1h 46m"
+            },
+            {
                 "name": "Barreda (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3cFV51iDfb0C6pw+Vu1qWPoniV/T7IVBfFlZ09eNUeNc=",
                 "icono": "https://image.tmdb.org/t/p/w500/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
@@ -547,6 +571,30 @@
     {
         "name": "🆕 ESTRENOS 🎬✨",
         "samples": [
+            {
+                "name": "Resident Evil (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Vf6pq7hN2U0xryzVy1IDgqhQVsUXGXgL6uLIfFrhA66M25fpq0qiFNCezs4xtf2A",
+                "icono": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+                "type": "PELICULA",
+                "descripcion": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+                "anio": "2026",
+                "genero": "Terror,Ciencia ficción,Aventura",
+                "duracion": "1h 33m"
+            },
+            {
+                "name": "Adolescencia, sexo y muerte en campamento Miasma (2026)",
+                "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3Hp5zcqOiNVcE2SrndVQI7eZd1qWd1Fnr189L6Qi4RndhUNY2IkVBJPN071ssKayzwSg9lvwHlkSmqT3LszNW6g==",
+                "icono": "https://image.tmdb.org/t/p/w500/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+                "anio": "2026",
+                "genero": "Comedia,Terror,Romance",
+                "duracion": "1h 46m"
+            },
             {
                  "name": "Barreda (2026)",
                 "url": "cVI+FPBxX2ASracUSyM4w+Gdrha6UHJo0D4dJRlQ7rZ2LKxoqhCV31Q1CHRdw+v3cFV51iDfb0C6pw+Vu1qWPoniV/T7IVBfFlZ09eNUeNc=",
